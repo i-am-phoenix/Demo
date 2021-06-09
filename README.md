@@ -52,7 +52,11 @@ Our key observations as well as a more in-depth overview of methodology are pres
 
 #### Authors
 
+[Frank Perez]( https://github.com/FRANK32021)
 
+[Iryna P Marchiano](https://github.com/i-am-phoenix/)
+
+[Ophelia Michelle](https://github.com/OpheliaH901)	
 
 
 
