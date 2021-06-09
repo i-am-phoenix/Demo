@@ -56,7 +56,7 @@ Our key observations as well as a more in-depth overview of methodology are pres
 
 [Iryna P Marchiano](https://github.com/i-am-phoenix/)
 
-[Ophelia Michelle](https://github.com/OpheliaH901)	
+[Ophelia Heard](https://github.com/OpheliaH901)	
 
 
 
